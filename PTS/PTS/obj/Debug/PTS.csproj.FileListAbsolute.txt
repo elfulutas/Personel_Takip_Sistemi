@@ -1,0 +1,2380 @@
+C:\Users\AYBU\source\PTS\PTS\bin\PTS.dll.config
+C:\Users\AYBU\source\PTS\PTS\bin\PTS.dll
+C:\Users\AYBU\source\PTS\PTS\bin\PTS.pdb
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYBU\source\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYBU\source\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\AYBU\source\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYBU\source\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYBU\source\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\AYBU\source\PTS\PTS\bin\WebGrease.dll
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AYBU\source\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\AYBU\source\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\AYBU\source\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\AYBU\source\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYBU\source\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\AYBU\source\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\AYBU\source\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\AYBU\source\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\AYBU\source\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\AYBU\source\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AYBU\source\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AYBU\source\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\AYBU\source\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\AYBU\source\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\AYBU\source\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\AYBU\source\PTS\PTS\bin\EntityFramework.dll
+C:\Users\AYBU\source\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\AYBU\source\PTS\PTS\bin\EntityFramework.xml
+C:\Users\AYBU\source\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\ELİF\Desktop\PTS\PTS\bin\PTS.dll.config
+C:\Users\ELİF\Desktop\PTS\PTS\bin\PTS.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\PTS.pdb
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ELİF\Desktop\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ELİF\Desktop\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\EntityFramework.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\WebGrease.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\EntityFramework.xml
+C:\Users\ELİF\Desktop\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ELİF\Desktop\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\ELİF\Desktop\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\ELİF\Desktop\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\ELİF\Desktop\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ELİF\Desktop\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ELİF\Desktop\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ELİF\Desktop\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\ELİF\Desktop\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\ELİF\Desktop\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\ELİF\Desktop\PTS\PTS\obj\Debug\PTS.pdb
+F:\En Yeni\PTS\PTS\bin\PTS.dll.config
+F:\En Yeni\PTS\PTS\bin\PTS.dll
+F:\En Yeni\PTS\PTS\bin\PTS.pdb
+F:\En Yeni\PTS\PTS\bin\roslyn\csc.exe
+F:\En Yeni\PTS\PTS\bin\roslyn\csc.exe.config
+F:\En Yeni\PTS\PTS\bin\roslyn\csc.rsp
+F:\En Yeni\PTS\PTS\bin\roslyn\csi.exe
+F:\En Yeni\PTS\PTS\bin\roslyn\csi.exe.config
+F:\En Yeni\PTS\PTS\bin\roslyn\csi.rsp
+F:\En Yeni\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\En Yeni\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+F:\En Yeni\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\En Yeni\PTS\PTS\bin\roslyn\System.AppContext.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Console.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\En Yeni\PTS\PTS\bin\roslyn\vbc.exe
+F:\En Yeni\PTS\PTS\bin\roslyn\vbc.exe.config
+F:\En Yeni\PTS\PTS\bin\roslyn\vbc.rsp
+F:\En Yeni\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+F:\En Yeni\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+F:\En Yeni\PTS\PTS\bin\Antlr3.Runtime.dll
+F:\En Yeni\PTS\PTS\bin\EntityFramework.dll
+F:\En Yeni\PTS\PTS\bin\EntityFramework.SqlServer.dll
+F:\En Yeni\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\En Yeni\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+F:\En Yeni\PTS\PTS\bin\Newtonsoft.Json.dll
+F:\En Yeni\PTS\PTS\bin\System.Web.Helpers.dll
+F:\En Yeni\PTS\PTS\bin\System.Web.Mvc.dll
+F:\En Yeni\PTS\PTS\bin\System.Web.Optimization.dll
+F:\En Yeni\PTS\PTS\bin\System.Web.Razor.dll
+F:\En Yeni\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+F:\En Yeni\PTS\PTS\bin\System.Web.WebPages.dll
+F:\En Yeni\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+F:\En Yeni\PTS\PTS\bin\WebGrease.dll
+F:\En Yeni\PTS\PTS\bin\EntityFramework.xml
+F:\En Yeni\PTS\PTS\bin\EntityFramework.SqlServer.xml
+F:\En Yeni\PTS\PTS\bin\System.Web.Helpers.xml
+F:\En Yeni\PTS\PTS\bin\System.Web.Mvc.xml
+F:\En Yeni\PTS\PTS\bin\System.Web.Optimization.xml
+F:\En Yeni\PTS\PTS\bin\System.Web.Razor.xml
+F:\En Yeni\PTS\PTS\bin\System.Web.WebPages.xml
+F:\En Yeni\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+F:\En Yeni\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+F:\En Yeni\PTS\PTS\bin\Newtonsoft.Json.xml
+F:\En Yeni\PTS\PTS\bin\Antlr3.Runtime.pdb
+F:\En Yeni\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\En Yeni\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+F:\En Yeni\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+F:\En Yeni\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+F:\En Yeni\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+F:\En Yeni\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+F:\En Yeni\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+F:\En Yeni\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+F:\En Yeni\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+F:\En Yeni\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+F:\En Yeni\PTS\PTS\obj\Debug\PTS.dll
+F:\En Yeni\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\PTS.dll.config
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\PTS.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\PTS.pdb
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\EntityFramework.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\WebGrease.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\EntityFramework.xml
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\AYBU\source\PROJE\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\AYBU\source\PROJE\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\AYBU\source\PROJE\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\PTS.dll.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\EntityFramework.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\WebGrease.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\EntityFramework.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\14.10\PTS\PTS\bin\Rotativa.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\PTS.dll.config
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\PTS.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\PTS.pdb
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\EntityFramework.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\Rotativa.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\WebGrease.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\EntityFramework.xml
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\AYBU\source\PROJE\16.10\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\PTS.dll.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\EntityFramework.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\Rotativa.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\WebGrease.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\EntityFramework.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\16.10 okul\PTS\PTS\obj\Debug\PTS.pdb
+E:\PTS\PTS\bin\PTS.dll.config
+E:\PTS\PTS\bin\PTS.dll
+E:\PTS\PTS\bin\PTS.pdb
+E:\PTS\PTS\bin\roslyn\csc.exe
+E:\PTS\PTS\bin\roslyn\csc.exe.config
+E:\PTS\PTS\bin\roslyn\csc.rsp
+E:\PTS\PTS\bin\roslyn\csi.exe
+E:\PTS\PTS\bin\roslyn\csi.exe.config
+E:\PTS\PTS\bin\roslyn\csi.rsp
+E:\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PTS\PTS\bin\roslyn\System.AppContext.dll
+E:\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+E:\PTS\PTS\bin\roslyn\System.Console.dll
+E:\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+E:\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+E:\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+E:\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+E:\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+E:\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+E:\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+E:\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+E:\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+E:\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PTS\PTS\bin\roslyn\vbc.exe
+E:\PTS\PTS\bin\roslyn\vbc.exe.config
+E:\PTS\PTS\bin\roslyn\vbc.rsp
+E:\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+E:\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+E:\PTS\PTS\bin\Antlr3.Runtime.dll
+E:\PTS\PTS\bin\EntityFramework.dll
+E:\PTS\PTS\bin\EntityFramework.SqlServer.dll
+E:\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+E:\PTS\PTS\bin\Newtonsoft.Json.dll
+E:\PTS\PTS\bin\Rotativa.dll
+E:\PTS\PTS\bin\System.Web.Helpers.dll
+E:\PTS\PTS\bin\System.Web.Mvc.dll
+E:\PTS\PTS\bin\System.Web.Optimization.dll
+E:\PTS\PTS\bin\System.Web.Razor.dll
+E:\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+E:\PTS\PTS\bin\System.Web.WebPages.dll
+E:\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+E:\PTS\PTS\bin\WebGrease.dll
+E:\PTS\PTS\bin\EntityFramework.xml
+E:\PTS\PTS\bin\EntityFramework.SqlServer.xml
+E:\PTS\PTS\bin\System.Web.Helpers.xml
+E:\PTS\PTS\bin\System.Web.Mvc.xml
+E:\PTS\PTS\bin\System.Web.Optimization.xml
+E:\PTS\PTS\bin\System.Web.Razor.xml
+E:\PTS\PTS\bin\System.Web.WebPages.xml
+E:\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+E:\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+E:\PTS\PTS\bin\Newtonsoft.Json.xml
+E:\PTS\PTS\bin\Antlr3.Runtime.pdb
+E:\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+E:\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+E:\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+E:\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+E:\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+E:\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+E:\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+E:\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+E:\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+E:\PTS\PTS\obj\Debug\PTS.dll
+E:\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\PTS.dll.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\EntityFramework.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\Rotativa.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\WebGrease.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\EntityFramework.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\17.10\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\PTS.dll.config
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\PTS.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\PTS.pdb
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\EntityFramework.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\Rotativa.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\WebGrease.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\EntityFramework.xml
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\AYBU\source\PROJE\18.10\PTS\PTS\obj\Debug\PTS.pdb
+D:\18.10 OKULL\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+D:\18.10 OKULL\PTS\PTS\obj\Debug\PTS.csproj.CoreCompileInputs.cache
+D:\18.10 OKULL\PTS\PTS\obj\Debug\PTS.dll
+D:\18.10 OKULL\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\PTS.dll.config
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\PTS.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\PTS.pdb
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\EntityFramework.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\Rotativa.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\WebGrease.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\EntityFramework.xml
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\obj\Debug\PTS.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\Computer\Desktop\18.10 OKULL\PTS\PTS\obj\Debug\PTS.pdb
+F:\18.10 OKULL\PTS\PTS\bin\PTS.dll.config
+F:\18.10 OKULL\PTS\PTS\bin\PTS.dll
+F:\18.10 OKULL\PTS\PTS\bin\PTS.pdb
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\csc.exe
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\csc.exe.config
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\csc.rsp
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\csi.exe
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\csi.exe.config
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\csi.rsp
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.AppContext.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Console.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\vbc.exe
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\vbc.exe.config
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\vbc.rsp
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+F:\18.10 OKULL\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+F:\18.10 OKULL\PTS\PTS\bin\Antlr3.Runtime.dll
+F:\18.10 OKULL\PTS\PTS\bin\EntityFramework.dll
+F:\18.10 OKULL\PTS\PTS\bin\EntityFramework.SqlServer.dll
+F:\18.10 OKULL\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\18.10 OKULL\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+F:\18.10 OKULL\PTS\PTS\bin\Newtonsoft.Json.dll
+F:\18.10 OKULL\PTS\PTS\bin\Rotativa.dll
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.Helpers.dll
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.Mvc.dll
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.Optimization.dll
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.Razor.dll
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.WebPages.dll
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+F:\18.10 OKULL\PTS\PTS\bin\WebGrease.dll
+F:\18.10 OKULL\PTS\PTS\bin\EntityFramework.xml
+F:\18.10 OKULL\PTS\PTS\bin\EntityFramework.SqlServer.xml
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.Helpers.xml
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.Mvc.xml
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.Optimization.xml
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.Razor.xml
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.WebPages.xml
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+F:\18.10 OKULL\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+F:\18.10 OKULL\PTS\PTS\bin\Newtonsoft.Json.xml
+F:\18.10 OKULL\PTS\PTS\bin\Antlr3.Runtime.pdb
+F:\18.10 OKULL\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\18.10 OKULL\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+F:\18.10 OKULL\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+F:\18.10 OKULL\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+F:\18.10 OKULL\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+F:\18.10 OKULL\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+F:\18.10 OKULL\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+F:\18.10 OKULL\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+F:\18.10 OKULL\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+F:\18.10 OKULL\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+F:\18.10 OKULL\PTS\PTS\obj\Debug\PTS.dll
+F:\18.10 OKULL\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\PTS.dll.config
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\PTS.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\PTS.pdb
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\EntityFramework.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\Rotativa.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\WebGrease.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\EntityFramework.xml
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\AYBU\source\PROJE\21.10 okul\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\PTS.dll.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\EntityFramework.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\Rotativa.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\WebGrease.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\EntityFramework.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\22.10 YENİ\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\PTS.dll.config
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\PTS.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\PTS.pdb
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\EntityFramework.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\Rotativa.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\WebGrease.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\EntityFramework.xml
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\AYBU\source\PROJE\23.10\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\PTS.dll.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\EntityFramework.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\Rotativa.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\WebGrease.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\EntityFramework.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\23.10 okul\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\PTS.dll.config
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\PTS.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\PTS.pdb
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\EntityFramework.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\Rotativa.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\WebGrease.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\EntityFramework.xml
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\AYBU\source\PROJE\24.10\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\PTS.dll.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\EntityFramework.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Rotativa.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\WebGrease.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\EntityFramework.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.Owin.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.Owin.Security.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Owin.dll
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.Owin.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ELİF\Desktop\DERSLER\PROJE\25.10 okul\PTS\PTS\bin\Microsoft.Owin.Security.xml
+G:\29.10.2019\PTS\PTS\bin\PTS.dll.config
+G:\29.10.2019\PTS\PTS\bin\PTS.dll
+G:\29.10.2019\PTS\PTS\bin\PTS.pdb
+G:\29.10.2019\PTS\PTS\bin\roslyn\csc.exe
+G:\29.10.2019\PTS\PTS\bin\roslyn\csc.exe.config
+G:\29.10.2019\PTS\PTS\bin\roslyn\csc.rsp
+G:\29.10.2019\PTS\PTS\bin\roslyn\csi.exe
+G:\29.10.2019\PTS\PTS\bin\roslyn\csi.exe.config
+G:\29.10.2019\PTS\PTS\bin\roslyn\csi.rsp
+G:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+G:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.AppContext.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Console.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\29.10.2019\PTS\PTS\bin\roslyn\vbc.exe
+G:\29.10.2019\PTS\PTS\bin\roslyn\vbc.exe.config
+G:\29.10.2019\PTS\PTS\bin\roslyn\vbc.rsp
+G:\29.10.2019\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+G:\29.10.2019\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+G:\29.10.2019\PTS\PTS\bin\Antlr3.Runtime.dll
+G:\29.10.2019\PTS\PTS\bin\EntityFramework.dll
+G:\29.10.2019\PTS\PTS\bin\EntityFramework.SqlServer.dll
+G:\29.10.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.dll
+G:\29.10.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+G:\29.10.2019\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\29.10.2019\PTS\PTS\bin\Microsoft.Owin.dll
+G:\29.10.2019\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\29.10.2019\PTS\PTS\bin\Microsoft.Owin.Security.dll
+G:\29.10.2019\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+G:\29.10.2019\PTS\PTS\bin\Newtonsoft.Json.dll
+G:\29.10.2019\PTS\PTS\bin\Owin.dll
+G:\29.10.2019\PTS\PTS\bin\Rotativa.dll
+G:\29.10.2019\PTS\PTS\bin\System.Web.Helpers.dll
+G:\29.10.2019\PTS\PTS\bin\System.Web.Mvc.dll
+G:\29.10.2019\PTS\PTS\bin\System.Web.Optimization.dll
+G:\29.10.2019\PTS\PTS\bin\System.Web.Razor.dll
+G:\29.10.2019\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+G:\29.10.2019\PTS\PTS\bin\System.Web.WebPages.dll
+G:\29.10.2019\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+G:\29.10.2019\PTS\PTS\bin\WebGrease.dll
+G:\29.10.2019\PTS\PTS\bin\EntityFramework.xml
+G:\29.10.2019\PTS\PTS\bin\EntityFramework.SqlServer.xml
+G:\29.10.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.pdb
+G:\29.10.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.xml
+G:\29.10.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+G:\29.10.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+G:\29.10.2019\PTS\PTS\bin\Microsoft.Owin.xml
+G:\29.10.2019\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\29.10.2019\PTS\PTS\bin\Microsoft.Owin.Security.xml
+G:\29.10.2019\PTS\PTS\bin\System.Web.Helpers.xml
+G:\29.10.2019\PTS\PTS\bin\System.Web.Mvc.xml
+G:\29.10.2019\PTS\PTS\bin\System.Web.Optimization.xml
+G:\29.10.2019\PTS\PTS\bin\System.Web.Razor.xml
+G:\29.10.2019\PTS\PTS\bin\System.Web.WebPages.xml
+G:\29.10.2019\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+G:\29.10.2019\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+G:\29.10.2019\PTS\PTS\bin\Newtonsoft.Json.xml
+G:\29.10.2019\PTS\PTS\bin\Antlr3.Runtime.pdb
+G:\29.10.2019\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\29.10.2019\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+G:\29.10.2019\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+G:\29.10.2019\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+G:\29.10.2019\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+G:\29.10.2019\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+G:\29.10.2019\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+G:\29.10.2019\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+G:\29.10.2019\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+G:\29.10.2019\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+G:\29.10.2019\PTS\PTS\obj\Debug\PTS.dll
+G:\29.10.2019\PTS\PTS\obj\Debug\PTS.pdb
+F:\29.10.2019\PTS\PTS\bin\PTS.dll.config
+F:\29.10.2019\PTS\PTS\bin\PTS.dll
+F:\29.10.2019\PTS\PTS\bin\PTS.pdb
+F:\29.10.2019\PTS\PTS\bin\roslyn\csc.exe
+F:\29.10.2019\PTS\PTS\bin\roslyn\csc.exe.config
+F:\29.10.2019\PTS\PTS\bin\roslyn\csc.rsp
+F:\29.10.2019\PTS\PTS\bin\roslyn\csi.exe
+F:\29.10.2019\PTS\PTS\bin\roslyn\csi.exe.config
+F:\29.10.2019\PTS\PTS\bin\roslyn\csi.rsp
+F:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+F:\29.10.2019\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.AppContext.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Console.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\29.10.2019\PTS\PTS\bin\roslyn\vbc.exe
+F:\29.10.2019\PTS\PTS\bin\roslyn\vbc.exe.config
+F:\29.10.2019\PTS\PTS\bin\roslyn\vbc.rsp
+F:\29.10.2019\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+F:\29.10.2019\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+F:\29.10.2019\PTS\PTS\bin\Antlr3.Runtime.dll
+F:\29.10.2019\PTS\PTS\bin\EntityFramework.dll
+F:\29.10.2019\PTS\PTS\bin\EntityFramework.SqlServer.dll
+F:\29.10.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\29.10.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\29.10.2019\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\29.10.2019\PTS\PTS\bin\Microsoft.Owin.dll
+F:\29.10.2019\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\29.10.2019\PTS\PTS\bin\Microsoft.Owin.Security.dll
+F:\29.10.2019\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+F:\29.10.2019\PTS\PTS\bin\Newtonsoft.Json.dll
+F:\29.10.2019\PTS\PTS\bin\Owin.dll
+F:\29.10.2019\PTS\PTS\bin\Rotativa.dll
+F:\29.10.2019\PTS\PTS\bin\System.Web.Helpers.dll
+F:\29.10.2019\PTS\PTS\bin\System.Web.Mvc.dll
+F:\29.10.2019\PTS\PTS\bin\System.Web.Optimization.dll
+F:\29.10.2019\PTS\PTS\bin\System.Web.Razor.dll
+F:\29.10.2019\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+F:\29.10.2019\PTS\PTS\bin\System.Web.WebPages.dll
+F:\29.10.2019\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+F:\29.10.2019\PTS\PTS\bin\WebGrease.dll
+F:\29.10.2019\PTS\PTS\bin\EntityFramework.xml
+F:\29.10.2019\PTS\PTS\bin\EntityFramework.SqlServer.xml
+F:\29.10.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.pdb
+F:\29.10.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\29.10.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+F:\29.10.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\29.10.2019\PTS\PTS\bin\Microsoft.Owin.xml
+F:\29.10.2019\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\29.10.2019\PTS\PTS\bin\Microsoft.Owin.Security.xml
+F:\29.10.2019\PTS\PTS\bin\System.Web.Helpers.xml
+F:\29.10.2019\PTS\PTS\bin\System.Web.Mvc.xml
+F:\29.10.2019\PTS\PTS\bin\System.Web.Optimization.xml
+F:\29.10.2019\PTS\PTS\bin\System.Web.Razor.xml
+F:\29.10.2019\PTS\PTS\bin\System.Web.WebPages.xml
+F:\29.10.2019\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+F:\29.10.2019\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+F:\29.10.2019\PTS\PTS\bin\Newtonsoft.Json.xml
+F:\29.10.2019\PTS\PTS\bin\Antlr3.Runtime.pdb
+F:\29.10.2019\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\29.10.2019\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+F:\29.10.2019\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+F:\29.10.2019\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+F:\29.10.2019\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+F:\29.10.2019\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+F:\29.10.2019\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+F:\29.10.2019\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+F:\29.10.2019\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+F:\29.10.2019\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+F:\29.10.2019\PTS\PTS\obj\Debug\PTS.dll
+F:\29.10.2019\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\PTS.dll.config
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\PTS.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\PTS.pdb
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\EntityFramework.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.Owin.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.Owin.Security.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Owin.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Rotativa.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\WebGrease.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\EntityFramework.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.Owin.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.Owin.Security.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\AYBU\source\PROJE\1.11.2019\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\PTS.dll.config
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\PTS.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\PTS.pdb
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\EntityFramework.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.Owin.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.Owin.Security.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Owin.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Rotativa.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\WebGrease.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\EntityFramework.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.Owin.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.Owin.Security.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\AYBU\Desktop\son hali\WEB\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\PTS.dll.config
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\PTS.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\PTS.pdb
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\EntityFramework.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.Owin.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.Owin.Security.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Owin.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Rotativa.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\WebGrease.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\EntityFramework.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.Owin.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.Owin.Security.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\AYBU\source\PROJE\1. son hali web\PTS\PTS\obj\Debug\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\PTS.dll.config
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\PTS.pdb
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csc.exe
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csc.rsp
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csi.exe
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csi.exe.config
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csi.rsp
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Console.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\vbc.exe
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\vbc.rsp
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\EntityFramework.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.Security.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Owin.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Rotativa.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Helpers.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Mvc.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Optimization.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\WebGrease.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\EntityFramework.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.Security.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Helpers.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Mvc.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Optimization.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\obj\Debug\PTS.dll
+C:\Users\ELİF\Desktop\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\obj\Debug\PTS.pdb
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\PTS.dll.config
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\PTS.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\PTS.pdb
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csc.exe
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csc.exe.config
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csc.rsp
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csi.exe
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csi.exe.config
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csi.rsp
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Console.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\vbc.exe
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\vbc.rsp
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\EntityFramework.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.Security.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Owin.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Rotativa.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Helpers.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Mvc.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Optimization.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Razor.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\WebGrease.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\EntityFramework.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.Security.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Helpers.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Mvc.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Optimization.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Razor.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\obj\Debug\PTS.dll
+C:\elif\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\obj\Debug\PTS.pdb
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\PTS.dll.config
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\PTS.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\PTS.pdb
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csc.exe
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csc.exe.config
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csc.rsp
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csi.exe
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csi.exe.config
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\csi.rsp
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.AppContext.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Collections.Immutable.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Console.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.Compression.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.FileSystem.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.IO.Pipes.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.AccessControl.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Claims.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.ValueTuple.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Xml.XPath.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\vbc.exe
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\vbc.exe.config
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\vbc.rsp
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\VBCSCompiler.exe
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\roslyn\VBCSCompiler.exe.config
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Antlr3.Runtime.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\EntityFramework.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\EntityFramework.SqlServer.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.Security.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Web.Infrastructure.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Newtonsoft.Json.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Owin.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Rotativa.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Helpers.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Mvc.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Optimization.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Razor.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.Deployment.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.Razor.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\WebGrease.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\EntityFramework.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\EntityFramework.SqlServer.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.Owin.Security.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Helpers.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Mvc.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Optimization.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.Razor.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.Deployment.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\System.Web.WebPages.Razor.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Newtonsoft.Json.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Antlr3.Runtime.pdb
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.Helpers.resources.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.Mvc.resources.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.Optimization.resources.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.Razor.resources.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.WebPages.resources.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\obj\Debug\PTS.csprojAssemblyReference.cache
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\obj\Debug\PTS.csproj.CopyComplete
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\obj\Debug\PTS.dll
+C:\elif\ders\işkur\DERSLER\KURS PROJELERİ\PERSONEL-WEB-MOBİL\Web\PTS\PTS\obj\Debug\PTS.pdb

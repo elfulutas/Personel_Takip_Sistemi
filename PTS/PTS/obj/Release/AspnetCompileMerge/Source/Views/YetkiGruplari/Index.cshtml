@@ -1,0 +1,31 @@
+﻿@model List<PTS.Models.YETKI_GRUBU>
+
+@{
+    ViewBag.Title = "Yetki Grupları";
+}
+
+<div>Index</div>
+    <table class="table">
+        <tr>
+            <th>
+                Kullanıcı Grup Adı
+            </th>
+            <th>
+                Yetkiler
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.GRUP_ADI
+                </td>
+                <td>
+                    @Html.ActionLink("Yetkiler", "Yetkiler", new { id = item.YETKI_GRUBU_REFNO })
+
+                </td>
+            </tr>
+        }
+    </table>
+    
